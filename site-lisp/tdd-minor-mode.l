@@ -36,7 +36,7 @@
 ;;
 ;; * tdd-minor-mode を実行して、C-c m するとバッファの色が 赤→緑→オレンジ
 ;;   と変わります。
-::
+;;
 ;; * color が必要なので NetInstaller (または以下) からインストールしてください。
 ;;   http://ohkubo.s53.xrea.com/xyzzy/index.html#outline-tree2
 ;;
